@@ -11,3 +11,5 @@ Complete these 5 JavaScript projects to earn the JavaScript Algorithms and Data 
 - [Ceasers Cipher](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/tree/master/Caesars_Cipher)
 
 - [Telephone Number Validator](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/tree/master/Telephone_Number_Validator)
+
+- [Cash Register](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/tree/master/Cash_Register)
