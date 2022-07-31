@@ -5,3 +5,5 @@ Complete these 5 JavaScript projects to earn the JavaScript Algorithms and Data 
 
 ## Projects
 - [Palindrome Checker](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/tree/master/Palindrome_Checker)
+
+- [Roman Numeral Converter](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/tree/master/Roman_Numeral_Converter)
