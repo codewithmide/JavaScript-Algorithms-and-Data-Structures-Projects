@@ -1,0 +1,21 @@
+# CHECK [Roman Numeral Converter.md]() for complete test case
+
+- `convertToRoman(2)` should return the string `II`
+- `convertToRoman(3)` should return the string `III`
+- `convertToRoman(4)` should return the string `IV`
+- `convertToRoman(5)` should return the string `V`
+- `convertToRoman(9)` should return the string `IX`
+- `convertToRoman(12)` should return the string `XII`
+- `convertToRoman(16)` should return the string `XVI`
+- `convertToRoman(29)` should return the string `XXIX`
+- `convertToRoman(44)` should return the string `XLIV`
+- `convertToRoman(45)` should return the string `XLV`
+- `convertToRoman(68)` should return the string `LXVIII`
+- `convertToRoman(83)` should return the string `LXXXIII`
+- `convertToRoman(97)` should return the string `XCVII`
+- `convertToRoman(99)` should return the string `XCIX`
+- `convertToRoman(400)` should return the string `CD`
+- `convertToRoman(500)` should return the string `D`
+- `convertToRoman(501)` should return the string `DI`
+- `convertToRoman(649)` should return the string `DCXLIX`
+- `convertToRoman(798)` should return the string `DCCXCVII- I`
