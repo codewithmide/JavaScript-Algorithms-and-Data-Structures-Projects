@@ -1,5 +1,11 @@
 # Check [TELEPHONE NUMBER VALIDATOR](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/blob/master/Telephone_Number_Validator/Telephone_Number_Validator.md) for more test cases.
 
+# RESOURCES 
+- [REGEX SOLVER](https://regex101.com/)
+
+
+# TEST CASES 
+
 - `telephoneCheck("555-555-5555")` should return a `boolean`.
 - `telephoneCheck("1 555-555-5555")` should return `true`.
 - `telephoneCheck("1 (555) 555-5555")` should return `true`.
