@@ -9,3 +9,5 @@ Complete these 5 JavaScript projects to earn the JavaScript Algorithms and Data 
 - [Roman Numeral Converter](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/tree/master/Roman_Numeral_Converter)
 
 - [Ceasers Cipher](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/tree/master/Caesars_Cipher)
+
+- [Telephone Number Validator](https://github.com/codewithmide/JavaScript-Algorithms-and-Data-Structures-Projects/tree/master/Telephone_Number_Validator)
